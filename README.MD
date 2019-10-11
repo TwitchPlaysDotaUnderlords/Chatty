@@ -1,0 +1,1 @@
+If you want to show the chat on stream, use chatty with these settings files (they go into Chatty->app).
